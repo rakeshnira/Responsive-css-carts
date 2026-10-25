@@ -1,0 +1,27 @@
+@media screen and (max-width:426px){
+    body{
+        height:auto;
+        width:100%;
+    }
+    .container .dbba {
+        flex-wrap: wrap;
+    }
+    .container h1{
+        padding-top:2rem;
+    }
+}
+/* =============================== */
+
+@media screen and (max-width:769px){
+    body{
+        height:auto;
+        width:100%;
+    }
+    .container h1{
+        padding-top:4rem;
+    }
+
+    .container .dbba {
+        padding:1rem 4px;
+    }
+}
